@@ -239,6 +239,14 @@ button:hover{
 button a:hover{
     color: black;
 }
+footer{
+    background-color: lightblue;
+    text-align: center;
+    width: 100%;
+    color: black;
+    top:100px;
+    
+}
 @media(max-width:768px) {
     body{
         width: 100vw;
